@@ -148,4 +148,8 @@ Future versions may include:
 
 ## License
 
-License information has not been added yet.
+This project is proprietary and all rights are reserved.
+
+The source code, documentation, product concepts, and related materials may not be used, copied, modified, distributed, or commercialized without prior written permission from the copyright holder.
+
+See [LICENSE](LICENSE) for details.
